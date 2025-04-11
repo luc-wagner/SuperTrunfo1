@@ -1,2 +1,3 @@
 # SuperTrunfo1
-Exercício nível novato
+Exercício que simula um supertrunfo bem básico, em C. 
+Meu primeiro exercício completo!
